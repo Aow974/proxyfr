@@ -1,8 +1,0 @@
-/* Center the logo at the top of the page */
-.logo img {
-    height: 80px;
-    position: center;
-    /* ou width: 100px; */
-    object-fit: contain;
-  }
-  
